@@ -1,0 +1,17 @@
+{
+  "library": {
+    "name": "Lakshay-COde-Components",
+    "components": [
+      "./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"
+    ],
+    "description": "Lakshay Code Components First ",
+    "id": "lakshay-code-components"
+  },
+  "telemetry": {
+    "global": {
+      "allowTelemetry": false,
+      "lastPrompted": 1765815731197,
+      "version": "1.8.51"
+    }
+  }
+}
